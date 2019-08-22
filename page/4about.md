@@ -22,6 +22,7 @@ type: page
 * GitHub：[fortranliu](https://github.com/fortranliu)
 * email：liutong246@mail.nwpu.edu.cn
 * [Weibo](http://weibo.com/xxx)
+* [google scholar](https://scholar.google.com/citations?user=yjq-JWkAAAAJ&hl=zh-CN&oi=sra)
 
 ## Comments
 
