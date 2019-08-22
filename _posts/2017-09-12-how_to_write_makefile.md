@@ -6,11 +6,9 @@ categories: 技术文档
 tags: Makefile
 ---
 
+
 \* content
-
 {:toc}
-
-#跟我一起写Makefile_Markdown版
 
 
 将[跟我一起写 Makefile](http://www.chinaunix.net/old_jh/23/408225.html)整理为易读的格式。
@@ -1615,6 +1613,7 @@ make提供了一些函数来控制make的运行。通常，你需要检测一些
 
 
 
+
     示例一： 
     
     ifdef ERROR_001 
@@ -1624,6 +1623,7 @@ make提供了一些函数来控制make的运行。通常，你需要检测一些
     endif 
 
   
+
 
 
 
@@ -1639,9 +1639,11 @@ make提供了一些函数来控制make的运行。通常，你需要检测一些
 
 
 
+
     示例一会在变量ERROR_001定义了后执行时产生error调用，而示例二则在目录err被执行时才发生error调用。 
 
   
+
 
 
 
