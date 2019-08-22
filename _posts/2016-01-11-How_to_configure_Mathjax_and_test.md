@@ -4,6 +4,7 @@ title:  "Mathjax的配置及效果测试"
 date:   2016-01-11 20:35
 categories: 技术文档
 tags: Mathjax
+mathjax: true
 ---
 
 # Mathjax公式效果测试
