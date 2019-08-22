@@ -7,7 +7,7 @@
 
 # Site settings
 title: 刘通的技术专栏
-brief-intro: Android and Python Coder
+brief-intro: CFD Fortran Python
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fortranliu.github.io" # the base hostname & protocol for your site
 
