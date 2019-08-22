@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 刘通的技术专栏
-brief-intro: CFD Fortran Python
+title: 刘通的博客
+brief-intro: 生活 学习
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fortranliu.github.io" # the base hostname & protocol for your site
 
@@ -19,9 +19,9 @@ facebook_username: #gaohaoyang.water
 github_username:  fortranliu
 email: fortranliu@gmail.com
 weibo_username: xxxx
-zhihu_username: xxxx
-linkedIn_username: xxxx
-dribbble_username:
+zhihu_username: #xxxx
+linkedIn_username: #
+dribbble_username: #
 
 description_footer: 来自刘通的个人专栏！
 

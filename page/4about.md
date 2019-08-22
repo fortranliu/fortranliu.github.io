@@ -19,12 +19,9 @@ type: page
 
 ## 联系我
 
-* GitHub：[Gaohaoyang](https://github.com/fortranliu)
+* GitHub：[fortranliu](https://github.com/fortranliu)
 * email：liutong246@mail.nwpu.edu.cn
 * [Weibo](http://weibo.com/xxx)
-* [知乎](https://www.zhihu.com/people/xxx)
-* [Facebook](https://www.facebook.com/xxx)
-* [Twitter](https://twitter.com/xxx)
 
 ## Comments
 
