@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://fortranliu.github.io/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/archive/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/category/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/tag/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/collection/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/demo/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/about/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2019/08/22/thought_and_writing/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2019/07/30/fortran_ifdef_bad_preprocessor_line/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2019/07/26/tour_de_Xinjiang/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2019/07/12/Mac_PETSc/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2019/07/04/Mac_sphinx/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2019/06/21/xingcheng/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/page2/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/page13/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2019/06/21/command_diff/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2019/04/19/vac_2019_02/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2019/03/01/Fortran_reshape/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2019/02/25/pointwise_export/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2019/02/22/First_day_back_to_the_team/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2019/02/19/spring_festival_with_my_doudou/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2019/02/19/difficulty_with_QMOM/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2019/01/26/thought_and_write/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2019/01/12/matplotlib/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2018/11/16/pointwise_extrude_smooth/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2018/11/01/new_idea_about_unsteady_Stefan_problem/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2018/10/30/tikz_vertical_line/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2018/10/25/matplotlib_pdf_blank_space/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2018/10/22/clean_code/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2018/10/11/vim_folding/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2018/10/10/VS_Code_config/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2018/09/30/Full_unsteady_ice_accretion_model/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2018/09/07/tecplot_zonetype/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2018/09/01/todo/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2018/08/29/dropbox_mac/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2018/07/03/pointwise/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2018/05/15/hot_key/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2018/04/02/pointwise_join_two_connectors/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2018/03/20/some_methods_in_CFD/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2018/03/19/ls/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2017/12/15/writing/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2017/10/31/gdb/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2017/10/31/c_size_t_printf/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2017/09/23/c_stack/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2017/09/14/net/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2017/09/14/libnurbs/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2017/09/13/NURBS++/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2017/09/12/how_to_write_makefile/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2017/09/12/README/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2017/09/08/vim_config/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2017/09/07/linux_cmd/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2017/09/05/git/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2017/09/05/exstream/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2017/09/02/qinghaihu/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2017/09/01/python/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2017/07/14/ubuntu_tecplot_export_error/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2017/05/29/tour_de_Sanya/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2017/05/04/math/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2017/03/21/tdm-gcc/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2017/02/16/pronunciation/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2017/01/22/fortran_endian/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2017/01/12/word_related/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2017/01/04/shadowsocks/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2016/06/25/about_my_grandfather/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2016/03/08/Turbulent-Prandtl-Number/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2016/02/24/Wedding/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2016/02/24/Folding_bike/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2016/01/27/floss/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2016/01/20/office_transfer/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2016/01/19/cooking_at_home/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2016/01/15/Skiing-at-Mountain-Cuihua/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2016/01/13/Zotero_Dropbox/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2016/01/13/Write_rules/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2016/01/12/How_to_install_MarkdownPad2/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2016/01/12/How_to_download_full_version_Chrome/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2016/01/11/How_to_configure_Mathjax_and_test/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2016/01/11/How_to_install_Dropbox_in_Ubuntu/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2016/01/11/How_to_install_ANSYS_in_Ubuntu/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2016/01/11/Farbox_test/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2016/01/11/First_blog/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2015/09/05/python_getopt/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/2015/08/20/Bian_Cheng/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/index.html</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/page3/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/page12/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/page4/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/page11/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/page5/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/page10/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/page6/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/page9/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/page7/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://fortranliu.github.io/page8/</loc>
+  <lastmod>2019-08-23T02:57:59+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+
+
+</urlset>
