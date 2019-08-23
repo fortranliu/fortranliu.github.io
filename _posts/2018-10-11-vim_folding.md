@@ -6,5 +6,5 @@ categories: 技术文档
 tags: Vim
 ---
 
-- zR` 打开所有折叠
+- `zR` 打开所有折叠
 - `zM` 关闭所有折叠/同时折叠所有subroutine
