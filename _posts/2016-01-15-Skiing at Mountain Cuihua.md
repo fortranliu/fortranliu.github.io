@@ -22,35 +22,35 @@ tags: 生活
 
 天池：
 
-![天池](</blog_image/20160114/tianchi_1.jpg>)
+![天池](<../img/tianchi_1.jpg>)
 
-![天池](</blog_image/20160114/tianchi_3.jpg>)
+![天池](<../img/tianchi_3.jpg>)
 
-![天池](</blog_image/20160114/tianchi_4.jpg>)
+![天池](<../img/tianchi_4.jpg>)
 
 滑雪场：
 
-![滑雪场](</blog_image/20160114/skiing_1.jpg>)
+![滑雪场](<../img/skiing_1.jpg>)
 
-![滑雪场](</blog_image/20160114/skiing_2.jpg>)
+![滑雪场](<../img/skiing_2.jpg>)
 
-![滑雪场](</blog_image/20160114/skiing_3.jpg>)
+![滑雪场](<../img/skiing_3.jpg>)
 
-![滑雪场](</blog_image/20160114/skiing_4.jpg>)
+![滑雪场](<../img/skiing_4.jpg>)
 
-![滑雪场](</blog_image/20160114/skiing_5.jpg>)
+![滑雪场](<../img/skiing_5.jpg>)
 
-![滑雪场](</blog_image/20160114/skiing_7.jpg>)
+![滑雪场](<../img/skiing_7.jpg>)
 
-![滑雪场](</blog_image/20160114/skiing_8.jpg>)
+![滑雪场](<../img/skiing_8.jpg>)
 
-![滑雪场](</blog_image/20160114/skiing_9.jpg>)
+![滑雪场](<../img/skiing_9.jpg>)
 
 合照：
 
-![合照](</blog_image/20160114/hezhao_1.jpg>)
+![合照](<../img/hezhao_1.jpg>)
 
-![合照](</blog_image/20160114/hezhao_2.jpg>)
+![合照](<../img/hezhao_2.jpg>)
 
 
 人物：

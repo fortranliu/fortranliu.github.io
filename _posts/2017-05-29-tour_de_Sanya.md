@@ -14,6 +14,6 @@ tags: 旅行 生活
 * 熟练掌握了电摩驾驶技术，沿着三亚湾骑了一个来回
 
 下面放照片：
-![花•美•男](/blog_image/20170529/sanya_lt_flower.jpg)
-![美女](/blog_image/20170529/sanya_fch_1.jpg)
-![美女](/blog_image/20170529/sanya_fch_2.jpg)
+![花•美•男](../img/sanya_lt_flower.jpg)
+![美女](../img/sanya_fch_1.jpg)
+![美女](../img/sanya_fch_2.jpg)
